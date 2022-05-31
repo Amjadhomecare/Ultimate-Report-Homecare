@@ -1,12 +1,26 @@
 
+
  body {background-color: #DBDFFD;
     }
  hr {background-color: #DBDFFD;
         border-style : none;
         border-top-style :dotted;
-        border-color : #242F9B;
+        border-color : #646FD4;
         border-width : 10px;
         width : 30% ;
     }
- h1 {color: #242F9B;
+ h1 {color: #646FD4;
+
+ }
+
+ p {color: #646FD4;
+
+ }
+
+  h3 {color: #646FD4;
+
+ }
+
+ td {color: #646FD4;
+
  }
